@@ -24,6 +24,7 @@ Types of Charts Used: Line Chart, Pareto Chart, Bar Chart, Pie Chart, etc.
 	
 7.	I created a dynamic Excel dashboard that includes all the aforementioned KPIs with interactive filters for location (state, region), product, channel, issue type, and time. This enables stakeholders to drill down and address specific areas of customer experience.
 8.	Finally, I formulated a strategy to prioritize complaints for resolution using a Pareto chart. Using pareto chart, it has been observed that 25% of the issues constitute 80% of the complaints which are to be prioritized.
+	
 **Challenges:**
 There are some State codes in the first table for which state code and state name is not given in the second table. Hence it may lead to incomplete insights when analyzing complaint data by state (e.g., identifying trends, state-wise complaint resolution performance, or regional patterns).  
 **Outcomes:**
