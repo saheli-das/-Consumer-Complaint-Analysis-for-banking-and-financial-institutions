@@ -6,6 +6,7 @@
 Tools used: Advanced Excel (Text, Lookup, Aggregate, Array functions, Pivot Tables, Charts, Slicers, Filters etc…)
 Techniques used: Exploratory Data Analysis, Data Cleaning, Creation of Dynamic Dashboards, and Insights Generation
 Types of Charts Used: Line Chart, Pareto Chart, Bar Chart, Pie Chart, etc.
+
 **Detailed Steps:**
 1.	As part of this project, I analyzed consumer complaints data (a total of 14,000 complaints) from 1,050 banking and financial Institutions to develop strategies to enhance the complaint resolution process.
 2.	Initially, I cleaned the data in second table, where State name and state code were given in the same column in JSON format. The State name and State code were separated in two columns in excel using text to column function.
